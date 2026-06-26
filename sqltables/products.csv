@@ -1,0 +1,16 @@
+"product_id","product","category","unit_price","unit_cost"
+"P-101","Wireless Mouse","Accessories",25,11
+"P-102","Mechanical Keyboard","Accessories",79,38
+"P-103","USB-C Hub","Accessories",45,19
+"P-104","Laptop Stand","Accessories",35,14
+"P-201","27in Monitor","Displays",240,150
+"P-202","34in Ultrawide","Displays",520,360
+"P-203","Portable Monitor","Displays",180,105
+"P-301","Ultrabook 14","Laptops",1150,820
+"P-302","Gaming Laptop 16","Laptops",1750,1300
+"P-303","Business Laptop 15","Laptops",1050,760
+"P-401","Noise-Cancel Headset","Audio",210,120
+"P-402","Desk Speakers","Audio",95,44
+"P-403","Conference Mic","Audio",130,62
+"P-501","Webcam 4K","Peripherals",110,55
+"P-502","Document Scanner","Peripherals",160,88
